@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 # git guide
 
-featrue-A
+- featrue-A
+
+- fix -B
